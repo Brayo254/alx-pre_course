@@ -1,2 +1,2 @@
-My first readme
-This is a minor update 
+My first readme.
+This is a minor update.
